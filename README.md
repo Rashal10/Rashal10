@@ -1,3 +1,17 @@
+<div align="center">
+
+<h1>👋 Hi There! I am Rashal</h1>
+
+<h3> Training Neural Networks • Debugging Reality • Building Cool Stuff</h3>
+
+<p>&nbsp;</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=1200&lines=%3E+Initializing+Profile...;ERROR+0xDEADBEEF%3A+CODE_TOO_CLEAN;%3E+Accessing+experimental+thoughts...+FAILED;%3E+Reason%3A+Spaghetti+dependency+detected+%F0%9F%8D%9D;%3E+Action%3A+Run+away+while+you+still+can.)](https://git.io/typing-svg)
+
+<p>&nbsp;</p>
+
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Exploring AI & Machine Learning projects, applying my skills in C, C++, Python, and Java to solve real-world problems.<br><br>🤝 I’m looking to collaborate on<br>Innovative AI/ML projects, tech-driven solutions, and open-source contributions.<br><br>🦾 I’m looking for help with<br>Advanced applications of artificial intelligence, deep learning, and real-world project experience.<br><br>🌱 I’m currently learning<br>Cutting-edge AI & ML techniques, along with expanding my knowledge in software development.<br><br>💬 Ask me about<br>Programming (C, C++, Python, Java), artificial intelligence, machine learning, problem-solving, and tech trends.<br><br>⚡ Fun fact<br>When I’m not coding, I enjoy playing video games and sports!<br>
 
