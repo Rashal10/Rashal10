@@ -12,10 +12,11 @@
 
 </div>
 
-https://portfolio-rashal.vercel.app/
 
 ## 💫 About Me :
 🔭 I’m currently working on<br>Exploring AI & Machine Learning projects, applying my skills in C, C++, Python, and Java to solve real-world problems.<br><br>🦾 I’m looking for help with<br>Advanced applications of artificial intelligence, deep learning, and real-world project experience.<br><br>🌱 I’m currently learning<br>Cutting-edge AI & ML techniques, along with expanding my knowledge in software development.<br><br>💬 Ask me about<br>Programming (C, C++, Python, Java), artificial intelligence, machine learning, problem-solving, and tech trends.<br><br>
+
+Know more about me over here: https://portfolio-rashal.vercel.app/
 
 <p>&nbsp;</p>
 
